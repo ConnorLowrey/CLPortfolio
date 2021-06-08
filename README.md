@@ -1,2 +1,2 @@
 # CLPortfolio
-Portfolio of current and previous Projects
+Portfolio of current and previous projects
